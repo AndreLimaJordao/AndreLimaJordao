@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💻 Computer engineer undergrad at UFPE-CIn<br>🤖 Co-founder and Tech-lead at LASER (Academic League of Embedded Systems) at UFPE<br>⚙️Driven by the intersection of hardware and low-level software</p>
+<p align="center"> Computer engineer undergrad at UFPE-CIn<br>Co-founder of LASER (Academic League of Embedded Systems) at UFPE<br>Driven by the intersection of hardware and low-level software</p>
 
 ###
 
